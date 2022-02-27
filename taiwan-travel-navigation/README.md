@@ -13,4 +13,18 @@ https://xd.adobe.com/view/abd32a64-180e-482a-970b-fce2d7a9cf1c-fe80/
 
 ## Tech Stack
 
-TBD
+> [Jamstack](https://jamstack.org/)
+
+### Static Website
+
+- marko.js
+- scss
+- vite
+- Github Page
+
+### API serverless
+
+- express
+- vercel
+
+https://vercel.com/guides/using-express-with-vercel
